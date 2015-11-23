@@ -1,0 +1,11 @@
+lcd1602.LST 
+main.LST 
+lcd1602.OBJ 
+main.OBJ 
+ultimate.hex 
+ultimate.lnp 
+ultimate.M51 
+ultimate.plg 
+ultimate.uvopt 
+ultimate_uvopt.bak 
+ultimate_uvproj.bak
